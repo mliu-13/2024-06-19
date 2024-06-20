@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 41f00794-1530-4bd9-96b6-a4f813293d32
+      url: 'https://mliu.quarto.pub/la-bachelor-degrees'
